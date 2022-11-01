@@ -1,0 +1,64 @@
+
+
+
+
+#imagen {
+
+    font-size: 30px;
+    text-align: right;
+    
+    margin-top: 20px;
+    
+    background-image: url(as.png);
+    background-repeat: no-repeat;
+    background-size: 42px 42px;
+    
+    border-radius: 10px;
+    border-color:black;
+    border-style: solid;
+    width: 170px;
+    height: 38px;
+
+   }     
+        
+
+body {
+   
+    background: lightblue;
+
+}
+
+
+#titulo {
+
+ 
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 120px 0px 0px 683px;
+    
+
+}
+
+#logearse {
+
+    margin: 40px 0px 0px 625px;
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    font-size: 20px;;
+    width: 300px;
+    height: 230px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+
+}
+
+#volver {
+
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 200px;
+    
+
+}
